@@ -4,7 +4,7 @@
 
 ## Kushal Reddy Palvai (UIN: 677379211) | Ramiya Shree Seshaiah (UIN: 660418618)
 
-Webpage -  [Link](https://uic-vis.github.io/project3-covid-data-analysis/) 
+## Webpage -  [Link](https://uic-vis.github.io/project3-covid-data-analysis/) 
 
 The Dataset that we have used over here is related to COVID-19 cases, tests and deaths. The time period in the data set is from march 2020 to september 2022. Data owner is the Department of Public Health in chicago. We have the city of chicago with zip codes. There are 8040 records with each row representing a week. There are also 21 fields representing different attributes. The attributes present here are Row ID, Zipcode, Week, Week start, Week end, Cases/Tests/Death weekly & cumulative, population and percentage positive tests weekly & cumulative. 
 

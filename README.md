@@ -66,7 +66,7 @@ We can observe that a scatterplot brush causes the bar chart to automatically up
 We have used Hover interactive visualization technique to answer question 4 where we can find the zipcodes(regions) with highest number of COVID Cases. We can click and select a zipcode, which further shows the COVID 19 cases trend across the 12 months.
 
 
-Website link - [Question 4](https://uic-vis.github.io/project3-covid-data-analysis/int3.html)
+Observable link - [Question 4](https://observablehq.com/d/011c1493ff967ccc)
 
 ![alt text](HoverViz.png)
 

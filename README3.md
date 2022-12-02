@@ -25,7 +25,7 @@ Problem : COVID - 19 has made a huge impact in everyone's life but vaccination h
 
 ## Data Question - What effects did vaccination have on the COVID-19 cases, tests and deaths ? 
 
-    This is to compare the cases, tests and deaths before and after vaccination for which we have visualized the comparison using bar charts that can be seen in the following screenshot. 
+This is to compare the cases, tests and deaths before and after vaccination for which we have visualized the comparison using bar charts that can be seen in the following screenshot. 
 
 Observable link - [Question 1](https://observablehq.com/d/68c0816015b4e9e1)
 
@@ -38,7 +38,7 @@ We can say that the Number of COVID tests taken have been increased drastically 
 
 ## Data Question - Does COVID-19 Tests/Cases trend changes during the winters when comparing to other seasons ?
 
-    We have used single view interactive visualization technique to answer question 2 which goes over the COVID Cases, Tests and deaths across the months. In this visualization, When the year(2020 - before vaccination) or (2021 - after vaccination) is selected the line chart is ploted by manipulating the data while filtering across the years. 
+We have used single view interactive visualization technique to answer question 2 which goes over the COVID Cases, Tests and deaths across the months. In this visualization, When the year(2020 - before vaccination) or (2021 - after vaccination) is selected the line chart is ploted by manipulating the data while filtering across the years. 
 
 
 Observable link - [Question 2](https://observablehq.com/d/bf8d22fd36977318)
@@ -50,7 +50,7 @@ The number of COVID tests and cases is significantly higher during the winter mo
 
 ## Data Question - What is the correlation between covid 19 cases and tests between 2020 and 2021 ? 
 
-    We have used multiple linked view interactive visualization technique to depict the correlation between tests and cases in which the data points aggregated by week is brushed and the visual mapping of bar chart is manipulated.
+We have used multiple linked view interactive visualization technique to depict the correlation between tests and cases in which the data points aggregated by week is brushed and the visual mapping of bar chart is manipulated.
 
 Observable link - [Question 3](https://observablehq.com/d/edb9ee7f64351225)
 
@@ -63,7 +63,7 @@ We can observe that a scatterplot brush causes the bar chart to automatically up
 
 ## Data Question - Which zipcodes in Chicago have the highest number of COVID cases & How does the trend vary accross different months ?
 
-    We have used Hover interactive visualization technique to answer question 4 where we can find the zipcodes(regions) with highest number of COVID Cases. We can click and select a zipcode, which further shows the COVID 19 cases trend across the 12 months.
+We have used Hover interactive visualization technique to answer question 4 where we can find the zipcodes(regions) with highest number of COVID Cases. We can click and select a zipcode, which further shows the COVID 19 cases trend across the 12 months.
 
 
 Website link - [Question 4](https://uic-vis.github.io/project3-covid-data-analysis/int3.html)
@@ -76,7 +76,7 @@ Once we've selected a zipcode, we can clearly see how the COVID 19 cases trend v
 
 ## Data Question - How COVID 19 tests,cases & deaths vary before and after vaccination in different regions of chicago ?
 
-    We have used Spatial interactive visualization technique to answer question 5 where we can find the zipcodes(regions) in chicago and when we select a zipcode, we can see how the COVID 19 tests, cases & deaths vary before and after vaccination. 
+We have used Spatial interactive visualization technique to answer question 5 where we can find the zipcodes(regions) in chicago and when we select a zipcode, we can see how the COVID 19 tests, cases & deaths vary before and after vaccination. 
 
 
 Website link - [Question 5](https://uic-vis.github.io/project3-covid-data-analysis/vis1.html)
